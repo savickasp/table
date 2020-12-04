@@ -1,0 +1,14 @@
+{
+    "name": "savickasp/table",
+    "description": "test package for laravel project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pijus Savickas",
+            "email": "savickas.p@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
